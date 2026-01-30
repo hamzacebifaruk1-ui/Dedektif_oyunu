@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: cb21c2d46a44a664891bd268f4c109ce
+  productGUID: caf8fa5f00e932a4186db71d984ff03c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: dedektif Oyunu 1
+  productName: "in\u015Fahatoyunu"
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -844,14 +844,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: dedektif Oyunu 1
+  metroPackageName: "in\u015Fahatoyunu"
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: dedektif Oyunu 1
+  metroApplicationDescription: "in\u015Fahatoyunu"
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -920,12 +920,12 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 1
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: d1f21b13-9a36-4bf5-bab4-9774d5c5422b
+  cloudProjectId: e78f1075-f940-4e10-82a8-3cb9ab473229
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: dedektif Oyunu 1
+  projectName: "in\u015Fahatoyunu"
   organizationId: hamzacebifaruk1
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
