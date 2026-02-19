@@ -3,6 +3,9 @@ using UnityEngine.SceneManagement;
 
 public class SceneChanger : MonoBehaviour
 {
+    // 🎮 Oyun sahnesi index'i (Build Settings'ten 3 olmalı)
+    [SerializeField] private int gameSceneIndex = 3;
+
     private void Load(int index)
     {
         // Pause menü açıksa oyun durmuş olabilir
@@ -18,14 +21,12 @@ public class SceneChanger : MonoBehaviour
     // ✅ Menüdeki butonlar
     public void NewGame()
     {
-        // Menüden oyuna
-        Load(0); // oyun
+        Load(gameSceneIndex); // 🎮 OYUN
     }
 
     public void ContinueGame()
     {
-        // Şimdilik NewGame ile aynı (save sistemi yoksa)
-        Load(0); // oyun
+        Load(gameSceneIndex); // 🎮 OYUN
     }
 
     public void OpenSettings()
